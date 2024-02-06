@@ -19,8 +19,8 @@ This is a multi-feature dataset for customer records associated with a European 
 Key Features include: id, customer_name, sentiment, csat_score, call_timestamp, call_day, reason, city, state, channel, response_time, call duration in minutes, call_center
 
 ### Insights
-
-
+<img width="627" alt="image" src="https://github.com/Aliyu-Kuburat/Call-Center/assets/156312358/575a9aac-ebd2-4080-92fe-e4d37a339f13">
+<img width="785" alt="image" src="https://github.com/Aliyu-Kuburat/Call-Center/assets/156312358/b2825477-dedb-4c20-984e-b0d26d8f69eb">
 
 
 
