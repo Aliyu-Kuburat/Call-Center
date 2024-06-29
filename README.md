@@ -107,15 +107,15 @@ Based on the analysis of the call center data, several recommendations can be ma
    Analyze response time data to identify bottlenecks and areas for improvement in handling customer inquiries. Implement strategies to reduce 
    response times, such as optimizing staffing levels, implementing automated responses for common queries, and providing additional training for agents.
    
-4.**Enhance SLA Compliance:**
+3.**Enhance SLA Compliance:**
    While the majority of calls are handled within SLA standards, there is room for improvement in addressing calls that fall below SLA requirements. Develop strategies to 
    improve SLA compliance, such as setting realistic SLA targets, monitoring performance closely, and providing incentives for meeting or exceeding SLA standards.
 
-5. **Geographical Analysis:**
+4. **Geographical Analysis:**
    Given the variation in call volumes and customer sentiments across different cities and states, conduct further analysis to understand regional trends and customer 
    preferences. Tailor customer service strategies and resources to meet the specific needs of customers in different geographic locations.
 
-6. **Customer Feedback and Satisfaction:**
+5. **Customer Feedback and Satisfaction:**
    Incorporate customer feedback mechanisms, such as surveys or feedback forms, to gather insights into individual customer experiences and satisfaction levels. Use this 
    feedback to identify areas for improvement and prioritize initiatives that address customer pain points.
 
